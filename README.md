@@ -1,0 +1,2 @@
+
+Created a Facebook clone using C++ with file handling showcases a unique approach to social networking development. Leveraging the power of C++ for robust programming and file handling for data storage, this project offers a glimpse into a tailored social platform. Explore a familiar interface while delving into the intricacies of file-based data management, presenting a novel fusion of technology and functionality
